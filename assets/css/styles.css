@@ -1,0 +1,27 @@
+p {
+  display: inline-block;
+}
+
+.event {
+  border: 1px dashed #000000;
+  margin: 0px;
+  display: inline-block;
+}
+
+div {
+  display: inline-block;
+}
+
+.right_side {
+    border-left: 10px solid #000000;
+    padding-left: 50px;
+    width: 40%;
+}
+
+.left_side {
+    float: left;
+    vertical-align: top;
+    text-align: right;
+    width: 30%;
+    padding-right: 50px;
+}
